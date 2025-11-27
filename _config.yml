@@ -23,18 +23,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_3756.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Zhao Liangjie"
   pronouns         : # example: "she/her"  
   bio              : "Multimodal Large Model Researcher"
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "ICT, UCAS"
   uri              : # URL
   email            : "zhaoliangjie55@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
