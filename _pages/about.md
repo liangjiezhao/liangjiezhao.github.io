@@ -38,3 +38,30 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 - Responsible for R&D and optimization of ADHMI (Autonomous Driving Human-Machine Interaction), focusing on soft obstacle recognition in reversing scenarios.
 - Implemented end-cloud collaborative optimization through human preference data construction and reinforcement learning algorithms to enhance model decision-making in specific scenarios.
 - Conducted VLA (Vision-Language-Action) research, tracking cutting-edge VLA designs and producing multiple technical documents.
+
+## Research Publications
+
+### 📄 Publications
+
+-   **Task-oriented Adaptive Distributed Node State Exchange Framework in Mobile Edge Networks**
+    *VTC 2025-Spring* | **First Author**
+
+### 🔬 Under Review
+
+-   **Automatic Annotation and Clustering-Based Retrieval for Edge Speech Recommendation**
+    *ICASSP 2026* | **First Author**
+
+-   **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**
+    *CVPR 2026* | **First Author**
+
+-   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
+    *CVPR 2026* | **Co-First Author**
+
+-   **Property-aware Reinforcement Learning with Retrieval Enhancement for Controllable 3D Molecule Generation**
+    *ICLR 2026* | **Co-First Author**
+
+-   **AptEvos: Adaptive Edge and Vehicle Scheduling for Hierarchical Federated Learning over Vehicular Networks**
+    *Internet of Things Journal (IoTJ)* | Third Author
+
+-   **Hybrid Deep Reinforcement Learning for Task Scheduling in Edge-Cloud Collaborative Computing: A Comprehensive Survey**
+    *Internet of Things Journal (IoTJ)* | Third Author
