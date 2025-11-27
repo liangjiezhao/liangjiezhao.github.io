@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liangjie (Peter) Zhao Personal Page"
+title: "Liangjie (Peter) Zhao Personal Page👋"
 author_profile: true
 redirect_from: 
   - /about/
