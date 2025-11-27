@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Institute of Computing Technology, Chinese Academy of Sciences, and am in the process of applying for a Ph.D. program. My research focuses on multimodal large models, particularly improving post-training methods using reinforcement learning and applying RL to solve challenges in multimodal reasoning.
+My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Institute of Computing Technology (ICT), University of Chinese Academy of Sciences (UCAS), and am in the process of applying for a Ph.D. program. My research focuses on multimodal large models, particularly improving post-training methods using reinforcement learning and applying RL to solve challenges in multimodal reasoning.
 
 ## Education
 
@@ -65,3 +65,14 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 
 -   **Hybrid Deep Reinforcement Learning for Task Scheduling in Edge-Cloud Collaborative Computing: A Comprehensive Survey**
     *Internet of Things Journal (IoTJ)* | Third Author
+
+## Awards and Honors
+
+### 🏆 Competitions
+- **🥈Silver Medal** - *Drawing with LLMs* (Kaggle, 49/1314)
+- **🥉Bronze Medal** - *Stanford RNA 3D Folding* (Kaggle, 110/1516)
+- **🥈Runner-up** - *Ele.me Smart Living Algorithm Competition* (Tianchi, 2/887)
+
+### 🎓 Academic Honors
+- **First-Class Academic Scholarship** (University of Chinese Academy of Sciences, 2024, 2025)
+- **Outstanding Student Award** (University of Chinese Academy of Sciences, 2024, 2025)
