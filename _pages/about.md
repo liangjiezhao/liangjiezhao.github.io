@@ -76,3 +76,18 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 ### 🎓 Academic Honors
 - **First-Class Academic Scholarship** (University of Chinese Academy of Sciences, 2024, 2025)
 - **Outstanding Student Award** (University of Chinese Academy of Sciences, 2024, 2025)
+
+
+## Services
+
+### 👥 Academic Services
+- **Technical Program Committee (TPC) / Reviewer**
+    - *ICASSP 2026*
+- **Session Chair Volunteer**
+    - *IEEE VTC 2025-Spring*
+
+### 🏫 Campus Leadership & Services
+- **Class President**
+    - *Sep 2023 - Present*
+- **Minister & President** of the Community Volunteer Association, ICT Branch
+    - *Sep 2024 - Present*
