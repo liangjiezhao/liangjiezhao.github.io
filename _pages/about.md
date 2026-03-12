@@ -25,11 +25,11 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
   B.A. in English (Dual Degree)
 
 ## Work Experience
-**2026.3 - now**
+**2026.3 - now**  
 *Agent Algorithm Engineer*, ByteDance
 
 
-**2025.12 - 2026.3**
+**2025.12 - 2026.3**  
 *LLM Algorithm Engineer*, Jingdong Technology Group
 
 **2025.7 - 2025.11**  
