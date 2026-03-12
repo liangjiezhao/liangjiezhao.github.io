@@ -25,6 +25,12 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
   B.A. in English (Dual Degree)
 
 ## Work Experience
+**2026.3 - now**
+*Agent Algorithm Engineer*, ByteDance
+
+
+**2025.12 - 2026.3**
+*LLM Algorithm Engineer*, Jingdong Technology Group
 
 **2025.7 - 2025.11**  
 *Multimodal Algorithm Engineer*, OPPO  
@@ -46,13 +52,15 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 -   **Task-oriented Adaptive Distributed Node State Exchange Framework in Mobile Edge Networks**
     *VTC 2025-Spring* | **First Author**
 
+-   **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**
+    *CVPR 2026, findings* | **First Author**
+
 ### 🔬 Under Review
 
 -   **Automatic Annotation and Clustering-Based Retrieval for Edge Speech Recommendation**
     *ICASSP 2026* | **First Author**
 
--   **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**
-    *CVPR 2026* | **First Author**
+
 
 -   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
     *CVPR 2026* | **Co-First Author**
