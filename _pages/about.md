@@ -76,6 +76,9 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 -   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
     *ICML 2026* | **Co-First Author**
 
+-   **SP-DocReader: Enhancing Vision-Language Models for Robust Document OCR via Difference-Aware Self-Play**
+    *ECCV 2026* | Third Author
+
 -   **AptEvos: Adaptive Edge and Vehicle Scheduling for Hierarchical Federated Learning over Vehicular Networks**
     *Internet of Things Journal (IoTJ)* | Third Author
 
