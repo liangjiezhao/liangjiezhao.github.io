@@ -25,7 +25,8 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
   B.A. in English (Dual Degree)
 
 ## Work Experience
-**2026.4 -  **  
+
+**2026.4 - **  
 *Agent Algorithm Engineer*, ByteDance
 - Architected an automated human-alignment evaluation framework for multi-turn Agent tool-use scenarios. Successfully integrated this framework into the RLVR pipeline, providing high-fidelity reward signals to optimize complex decision-making trajectories. Developed a specialized benchmark to quantify model robustness in long-chain tool interactions.
 
