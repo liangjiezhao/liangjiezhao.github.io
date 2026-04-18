@@ -54,7 +54,7 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 ### 📄 Publications
 
 -   **Task-oriented Adaptive Distributed Node State Exchange Framework in Mobile Edge Networks**
-    *VTC 2025-Spring* | **First Author**
+    *VTC 2025-Spring* | Authors: **Zhao Liangjie**, Ning Beixi, Wang Nina, Zhang Zongshuai, Tian Yu, Tian Lin | **First Author**
 
 -   **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**
     *CVPR 2026, findings* | **First Author**
