@@ -61,20 +61,20 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 
 ### 🔬 Under Review
 
--   **Automatic Annotation and Clustering-Based Retrieval for Edge Speech Recommendation**
-    *ICMR 2026* | **First Author**
-
 -   **Foveal Confirmation: Escaping the Peripheral Attention Trap to Mitigate Object Hallucination in Large Vision–Language Models**
-    *ICML 2026* | **First Author**
-
--   **Can LVLMs Uncover the Truth Behind Visual Illusions? An Analysis of Perceptual and Reasoning Capabilities**
-    *ACL 2026* | **First Author**
+    *ICML 2026* | Authors: **Liangjie Zhao**, Jiaheng Li, Jiaqing Lyu, Haiyun Jiang | **First Author**
 
 -   **OpenHallEval: An Open-World Benchmark for End-to-End and Multi-Granularity Hallucination Evaluation of MLLMs**
-    *KDD 2026* | **First Author**
+    *KDD 2026* | Authors: **Liangjie Zhao**, Ming Feng, Zichuan Lin, Jianing Li, Jiaheng Li, Hongfei Guo, Kexin Tang, Yulan Hu, Da Li | **First Author**
 
 -   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
-    *ICML 2026* | **Co-First Author**
+    *ICML 2026* | Authors: Xutao Mao, **Liangjie Zhao**, Liutao, Xiang Zheng, Hongying Zan, Cong Wang | **Co-First Author**
+
+-   **Can LVLMs Uncover the Truth Behind Visual Illusions? An Analysis of Perceptual and Reasoning Capabilities**
+    *EMNLP 2026* | Authors: **Liangjie Zhao**, Da Li, Jiaqing Lyu, Kexin Tang, Zecheng Fang, Yulan Hu | **First Author**
+
+-   **Automatic Annotation and Clustering-Based Retrieval for Edge Speech Recommendation**
+    *Globalcom 2026* | Authors: **Liangjie Zhao**, Beixi Ning, Ming Feng, Nina Wang, Zongshuai Zhang, Lin Tian | **First Author**
 
 -   **SP-DocReader: Enhancing Vision-Language Models for Robust Document OCR via Difference-Aware Self-Play**
     *ECCV 2026* | Third Author
