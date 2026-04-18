@@ -79,6 +79,9 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 -   **SP-DocReader: Enhancing Vision-Language Models for Robust Document OCR via Difference-Aware Self-Play**
     *ECCV 2026* | Third Author
 
+-   **ORBIT: Mitigating Object Hallucinations in Large Vision-Language Models via Representation Steering and Claim Verification**
+    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author
+
 -   **AptEvos: Adaptive Edge and Vehicle Scheduling for Hierarchical Federated Learning over Vehicular Networks**
     *Internet of Things Journal (IoTJ)* | Third Author
 
