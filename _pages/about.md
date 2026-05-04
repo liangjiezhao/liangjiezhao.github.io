@@ -63,6 +63,9 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 -   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
     *ICML 2026* | Authors: Xutao Mao, **Liangjie Zhao**, Liutao, Xiang Zheng, Hongying Zan, Cong Wang | **Co-First Author**
 
+-   **AptEvos: Adaptive Edge and Vehicle Scheduling for Hierarchical Federated Learning over Vehicular Networks**
+    *Electronics, 2026* | Authors: Yu Tian, Nina Wang, Zongshuai Zhang, Wenhao Zou, **Liangjie Zhao**, Shiyao Liu, Lin Tian
+
 ### 🔬 Under Review
 
 -   **Foveal Confirmation: Escaping the Peripheral Attention Trap to Mitigate Object Hallucination in Large Vision–Language Models**
@@ -81,10 +84,7 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
     *ECCV 2026* | Scores: 4, 3, 2 | Third Author
 
 -   **ORBIT: Mitigating Object Hallucinations in Large Vision-Language Models via Representation Steering and Claim Verification**
-    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**†, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author (†Corresponding Author)
-
--   **AptEvos: Adaptive Edge and Vehicle Scheduling for Hierarchical Federated Learning over Vehicular Networks**
-    *Electronics, 2026* | Authors: Yu Tian, Nina Wang, Zongshuai Zhang, Wenhao Zou, **Liangjie Zhao**, Shiyao Liu, Lin Tian | Fifth Author
+    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author
 
 -   **Hybrid Deep Reinforcement Learning for Task Scheduling in Edge-Cloud Collaborative Computing: A Comprehensive Survey**
     *Internet of Things Journal (IoTJ)* | Third Author
