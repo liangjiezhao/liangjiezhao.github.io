@@ -66,10 +66,10 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 ### 🔬 Under Review
 
 -   **Foveal Confirmation: Escaping the Peripheral Attention Trap to Mitigate Object Hallucination in Large Vision–Language Models**
-    *ICML 2026* | Authors: **Liangjie Zhao**, Jiaheng Li, Jiaqing Lyu, Haiyun Jiang | **First Author**
+    *NeurIPS 2026* | Authors: **Liangjie Zhao**, Jiaheng Li, Jiaqing Lyu, Haiyun Jiang | **First Author**
 
 -   **OpenHallEval: An Open-World Benchmark for End-to-End and Multi-Granularity Hallucination Evaluation of MLLMs**
-    *KDD 2026* | Authors: **Liangjie Zhao**, Ming Feng, Zichuan Lin, Jianing Li, Jiaheng Li, Hongfei Guo, Kexin Tang, Yulan Hu, Da Li | **First Author**
+    *KDD 2026* | Authors: **Liangjie Zhao**, Ming Feng, Zichuan Lin, Jianing Li, Jiaheng Li, Hongfei Guo, Kexin Tang, Yulan Hu, Da Li | Scores: 7, 6, 6, 3 | **First Author**
 
 -   **Can LVLMs Uncover the Truth Behind Visual Illusions? An Analysis of Perceptual and Reasoning Capabilities**
     *EMNLP 2026* | Authors: **Liangjie Zhao**, Da Li, Jiaqing Lyu, Kexin Tang, Zecheng Fang, Yulan Hu | **First Author**
@@ -78,13 +78,13 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
     *Globalcom 2026* | Authors: **Liangjie Zhao**, Beixi Ning, Ming Feng, Nina Wang, Zongshuai Zhang, Lin Tian | **First Author**
 
 -   **SP-DocReader: Enhancing Vision-Language Models for Robust Document OCR via Difference-Aware Self-Play**
-    *ECCV 2026* | Third Author
+    *ECCV 2026* | Scores: 4, 3, 2 | Third Author
 
 -   **ORBIT: Mitigating Object Hallucinations in Large Vision-Language Models via Representation Steering and Claim Verification**
-    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author
+    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**†, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author (†Corresponding Author)
 
 -   **AptEvos: Adaptive Edge and Vehicle Scheduling for Hierarchical Federated Learning over Vehicular Networks**
-    *Internet of Things Journal (IoTJ)* | Third Author
+    *Electronics, 2026* | Authors: Yu Tian, Nina Wang, Zongshuai Zhang, Wenhao Zou, **Liangjie Zhao**, Shiyao Liu, Lin Tian | Fifth Author
 
 -   **Hybrid Deep Reinforcement Learning for Task Scheduling in Edge-Cloud Collaborative Computing: A Comprehensive Survey**
     *Internet of Things Journal (IoTJ)* | Third Author
