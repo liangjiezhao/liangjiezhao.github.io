@@ -24,6 +24,10 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
   B.Eng. in Engineering Management  
   B.A. in English (Dual Degree)
 
+## Skills & Certifications
+
+- **IELTS**: Overall 7.5 (Listening 8.5, Reading 8.0, Writing 6.5, Speaking 6.0)
+
 ## Work Experience
 
 **2026.4 - 2026.9**  
@@ -84,7 +88,7 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
     *ECCV 2026* | Scores: 4, 3, 2 | Third Author
 
 -   **ORBIT: Mitigating Object Hallucinations in Large Vision-Language Models via Representation Steering and Claim Verification**
-    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author, Corresponding Author
+    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Corresponding Author
 
 -   **Hybrid Deep Reinforcement Learning for Task Scheduling in Edge-Cloud Collaborative Computing: A Comprehensive Survey**
     *Internet of Things Journal (IoTJ)* | Third Author
