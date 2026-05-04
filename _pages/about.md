@@ -60,6 +60,9 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 -   **HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision-Language Models**
     *CVPR 2026, findings* | Authors: **Liangjie Zhao**, Ming Feng, Wenjie Liao, Huafei Li, Xiaohui Song, Haonan Lu | **First Author**
 
+-   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
+    *ICML 2026* | Authors: Xutao Mao, **Liangjie Zhao**, Liutao, Xiang Zheng, Hongying Zan, Cong Wang | **Co-First Author**
+
 ### 🔬 Under Review
 
 -   **Foveal Confirmation: Escaping the Peripheral Attention Trap to Mitigate Object Hallucination in Large Vision–Language Models**
@@ -67,9 +70,6 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
 
 -   **OpenHallEval: An Open-World Benchmark for End-to-End and Multi-Granularity Hallucination Evaluation of MLLMs**
     *KDD 2026* | Authors: **Liangjie Zhao**, Ming Feng, Zichuan Lin, Jianing Li, Jiaheng Li, Hongfei Guo, Kexin Tang, Yulan Hu, Da Li | **First Author**
-
--   **STARE: Step-Wise Temporal Credit Assignment and Red-Teaming Engine for Multi-Modal Toxicity Attack**
-    *ICML 2026* | Authors: Xutao Mao, **Liangjie Zhao**, Liutao, Xiang Zheng, Hongying Zan, Cong Wang | **Co-First Author**
 
 -   **Can LVLMs Uncover the Truth Behind Visual Illusions? An Analysis of Perceptual and Reasoning Capabilities**
     *EMNLP 2026* | Authors: **Liangjie Zhao**, Da Li, Jiaqing Lyu, Kexin Tang, Zecheng Fang, Yulan Hu | **First Author**
