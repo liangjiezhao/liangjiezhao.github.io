@@ -84,7 +84,7 @@ My name is Zhao Liangjie (Peter). I am currently a Master’s student at the Ins
     *ECCV 2026* | Scores: 4, 3, 2 | Third Author
 
 -   **ORBIT: Mitigating Object Hallucinations in Large Vision-Language Models via Representation Steering and Claim Verification**
-    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author
+    *MM 2026* | Authors: Ming Feng, **Liangjie Zhao**, Guanghui Pan, Wenjie Liao, Haoran Liu | Co-First Author, Corresponding Author
 
 -   **Hybrid Deep Reinforcement Learning for Task Scheduling in Edge-Cloud Collaborative Computing: A Comprehensive Survey**
     *Internet of Things Journal (IoTJ)* | Third Author
